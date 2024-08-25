@@ -1,5 +1,3 @@
-
-
 set -eu
 
 # CLI Dependencies
