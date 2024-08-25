@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+#
+# Init the environment for new user.
+
 set -eu
 
 # CLI Dependencies
