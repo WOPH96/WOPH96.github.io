@@ -41,8 +41,9 @@ social:
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/WOPH96 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/worldwidephily
+    - https://www.instagram.com/climbing._.wp
+    - https://www.instagram.com/cook._.wp
 
 # Site Verification Settings
 webmaster_verifications:
@@ -148,6 +149,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
+paginate_path: ./page:num/
 
 # The base URL of your site
 baseurl: ""
