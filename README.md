@@ -1,11 +1,15 @@
 <!-- markdownlint-disable-next-line -->
-<div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
-
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-
+  # 기술 정리 블로그
+  ## Features
+  - 현대오토에버 모빌리티스쿨 임베디드SW과정 정리
+  - 코딩테스트 풀이과정 정리
+  - 프로젝트 정리  
+  ## Theme:
+  - Jekyll 
+  <!-- A minimal, responsive, and feature-rich Jekyll theme for technical writing. -->
+<!-- 
   [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=visualstudiocode)][open-container]&nbsp;
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=tomato)][gem]&nbsp;
   [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy)][license]&nbsp;
@@ -66,7 +70,7 @@ The avatar and favicon for the project's website are from [ClipartMAX][clipartma
 
 ## License
 
-This project is published under [MIT License][license].
+This project is published under [MIT License][license]. -->
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
